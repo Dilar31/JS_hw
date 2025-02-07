@@ -222,12 +222,9 @@ if (+numberOne>+numberTwo){
     alert('ви ввели рівні числа');
 }
 // task 11
-let xTask = prompt('Введіть щось');
+let xTask = 0:
 if (+xTask === 0 || xTask === false || xTask==='' || xTask===null || xTask === NaN || xTask === undefined){
     xTask='default'
-    console.log(xTask);
-}else {
-    console.log(xTask);
 }
 // tsak 12
 let coursesAndDurationArray = [
