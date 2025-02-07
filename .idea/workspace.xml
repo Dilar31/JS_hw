@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c9c994b-83bc-4a73-8656-1698fa874260" name="Changes" comment="push HW_1" />
+    <list default="true" id="0c9c994b-83bc-4a73-8656-1698fa874260" name="Changes" comment="create new files for HW_2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/HW_2.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -28,12 +31,12 @@
     &quot;assignee&quot;: &quot;Dilar31&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Dilar31/DILLAR31_js_HW.git&quot;,
-    &quot;accountId&quot;: &quot;96006532-f5bc-4847-9ac9-0b7ab37c8e9b&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Dilar31/JS_hw.git",
+    "accountId": "96006532-f5bc-4847-9ac9-0b7ab37c8e9b"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -43,23 +46,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/учеба/JS_hw",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/учеба/JS_hw&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -78,6 +81,7 @@
       <updated>1738603976830</updated>
       <workItem from="1738603977901" duration="2729000" />
       <workItem from="1738644721392" duration="6036000" />
+      <workItem from="1738932660530" duration="8231000" />
     </task>
     <task id="LOCAL-00001" summary="CREATE NEW PROJECT FOR HW JS">
       <option name="closed" value="true" />
@@ -167,7 +171,31 @@
       <option name="project" value="LOCAL" />
       <updated>1738687921538</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="push HW_1">
+      <option name="closed" value="true" />
+      <created>1738932718644</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1738932718644</updated>
+    </task>
+    <task id="LOCAL-00013" summary="push HW_1">
+      <option name="closed" value="true" />
+      <created>1738932730254</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1738932730254</updated>
+    </task>
+    <task id="LOCAL-00014" summary="create new files for HW_2">
+      <option name="closed" value="true" />
+      <created>1738932836396</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1738932836396</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +204,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="CREATE NEW PROJECT FOR HW JS" />
     <MESSAGE value="push HW_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="push HW_1" />
+    <MESSAGE value="create new files for HW_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="create new files for HW_2" />
   </component>
 </project>
