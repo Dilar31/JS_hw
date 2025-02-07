@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c9c994b-83bc-4a73-8656-1698fa874260" name="Changes" comment="push HW_1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Dilar31&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Dilar31/DILLAR31_js_HW.git&quot;,
+    &quot;accountId&quot;: &quot;96006532-f5bc-4847-9ac9-0b7ab37c8e9b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2sXZeSyVsJh16Ezq9Rmqp9gRl3F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/учеба/JS_hw",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c9c994b-83bc-4a73-8656-1698fa874260" name="Changes" comment="" />
+      <created>1738603976830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738603976830</updated>
+      <workItem from="1738603977901" duration="2729000" />
+      <workItem from="1738644721392" duration="6036000" />
+    </task>
+    <task id="LOCAL-00001" summary="CREATE NEW PROJECT FOR HW JS">
+      <option name="closed" value="true" />
+      <created>1738604260245</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738604260245</updated>
+    </task>
+    <task id="LOCAL-00002" summary="CREATE NEW PROJECT FOR HW JS">
+      <option name="closed" value="true" />
+      <created>1738604270709</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738604270709</updated>
+    </task>
+    <task id="LOCAL-00003" summary="push HW_1">
+      <option name="closed" value="true" />
+      <created>1738687583954</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738687583954</updated>
+    </task>
+    <task id="LOCAL-00004" summary="push HW_1">
+      <option name="closed" value="true" />
+      <created>1738687715846</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738687715846</updated>
+    </task>
+    <task id="LOCAL-00005" summary="push HW_1">
+      <option name="closed" value="true" />
+      <created>1738687733951</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738687733951</updated>
+    </task>
+    <task id="LOCAL-00006" summary="push HW_1">
+      <option name="closed" value="true" />
+      <created>1738687738427</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738687738427</updated>
+    </task>
+    <task id="LOCAL-00007" summary="push HW_1">
+      <option name="closed" value="true" />
+      <created>1738687814386</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738687814386</updated>
+    </task>
+    <task id="LOCAL-00008" summary="push HW_1">
+      <option name="closed" value="true" />
+      <created>1738687864243</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1738687864243</updated>
+    </task>
+    <task id="LOCAL-00009" summary="push HW_1">
+      <option name="closed" value="true" />
+      <created>1738687885340</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1738687885340</updated>
+    </task>
+    <task id="LOCAL-00010" summary="push HW_1">
+      <option name="closed" value="true" />
+      <created>1738687901329</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1738687901329</updated>
+    </task>
+    <task id="LOCAL-00011" summary="push HW_1">
+      <option name="closed" value="true" />
+      <created>1738687921537</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1738687921538</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CREATE NEW PROJECT FOR HW JS" />
+    <MESSAGE value="push HW_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="push HW_1" />
+  </component>
+</project>
