@@ -226,6 +226,8 @@ let xTask = prompt('Введіть щось');
 if (+xTask === 0 || xTask === false || xTask==='' || xTask===null || xTask === NaN || xTask === undefined){
     xTask='default'
     console.log(xTask);
+}else {
+    console.log(xTask);
 }
 // tsak 12
 let coursesAndDurationArray = [
