@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c9c994b-83bc-4a73-8656-1698fa874260" name="Changes" comment="push HW_1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/HW_2.js" afterDir="false" />
-    </list>
+    <list default="true" id="0c9c994b-83bc-4a73-8656-1698fa874260" name="Changes" comment="push HW_1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +78,7 @@
       <updated>1738603976830</updated>
       <workItem from="1738603977901" duration="2729000" />
       <workItem from="1738644721392" duration="6036000" />
-      <workItem from="1738951128220" duration="246000" />
+      <workItem from="1738951128220" duration="551000" />
     </task>
     <task id="LOCAL-00001" summary="CREATE NEW PROJECT FOR HW JS">
       <option name="closed" value="true" />
@@ -187,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738943853103</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="push HW_1">
+      <option name="closed" value="true" />
+      <created>1738951576883</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1738951576883</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
