@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c9c994b-83bc-4a73-8656-1698fa874260" name="Changes" comment="create HW3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW_1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW_2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW_3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/additionaltask.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index_HW3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index_HW_2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index_additional.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
-    </list>
+    <list default="true" id="0c9c994b-83bc-4a73-8656-1698fa874260" name="Changes" comment="create HW3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,8 +67,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180" />
       </set>
     </attachedChunks>
   </component>
@@ -101,6 +89,7 @@
       <workItem from="1739163890586" duration="15910000" />
       <workItem from="1739301585462" duration="3155000" />
       <workItem from="1739337026880" duration="98000" />
+      <workItem from="1739337261981" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="CREATE NEW PROJECT FOR HW JS">
       <option name="closed" value="true" />
