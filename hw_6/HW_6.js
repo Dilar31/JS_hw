@@ -92,7 +92,7 @@ console.log(cardDeck.find(card=> card.cardValue === 'ace'&& card.cardSuit === 's
 console.log(cardDeck.filter(card => card.cardValue ==='6'));
 console.log(cardDeck.filter(card => card.color ==='red'));
 console.log(cardDeck.filter(card => card.cardSuit === 'diamonds'));
-console.log(cardDeck.filter(card => card.cardSuit ==='clubs' && (card.cardValue !== '6' || card.cardValue !=='7' || card.cardValue !== '8' )))
+console.log(cardDeck.filter(card => card.cardSuit ==='clubs' && card.cardValue !== '6' && card.cardValue !=='7' && card.cardValue !== '8'));
 
 // Взяти описану колоду карт, та за допомоги reduce упакувати всі карти по "мастях" в об'єкт
 let newCardDeck = cardDeck.reduce((cardSuitNew,card) =>{

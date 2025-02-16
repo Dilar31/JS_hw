@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c9c994b-83bc-4a73-8656-1698fa874260" name="Changes" comment="create HW4">
-      <change afterPath="$PROJECT_DIR$/HW_5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index_HW_5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+    <list default="true" id="0c9c994b-83bc-4a73-8656-1698fa874260" name="Changes" comment="create hw 6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_6/HW_6.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw_6/HW_6.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -45,6 +43,9 @@
     &quot;accountId&quot;: &quot;96006532-f5bc-4847-9ac9-0b7ab37c8e9b&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="Security Analysis" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -111,7 +112,11 @@
       <workItem from="1739393478502" duration="723000" />
       <workItem from="1739422756192" duration="4014000" />
       <workItem from="1739462110191" duration="7787000" />
-      <workItem from="1739509190346" duration="4437000" />
+      <workItem from="1739509190346" duration="5376000" />
+      <workItem from="1739546540523" duration="3773000" />
+      <workItem from="1739618243788" duration="12757000" />
+      <workItem from="1739636522030" duration="7447000" />
+      <workItem from="1739689484554" duration="6598000" />
     </task>
     <task id="LOCAL-00001" summary="CREATE NEW PROJECT FOR HW JS">
       <option name="closed" value="true" />
@@ -305,7 +310,55 @@
       <option name="project" value="LOCAL" />
       <updated>1739349357109</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="create HW4">
+      <option name="closed" value="true" />
+      <created>1739518987758</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1739518987758</updated>
+    </task>
+    <task id="LOCAL-00026" summary="create HW4">
+      <option name="closed" value="true" />
+      <created>1739519008312</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1739519008312</updated>
+    </task>
+    <task id="LOCAL-00027" summary="create hw 6">
+      <option name="closed" value="true" />
+      <created>1739648122710</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1739648122710</updated>
+    </task>
+    <task id="LOCAL-00028" summary="create hw 6">
+      <option name="closed" value="true" />
+      <created>1739648156562</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1739648156562</updated>
+    </task>
+    <task id="LOCAL-00029" summary="create hw 6">
+      <option name="closed" value="true" />
+      <created>1739648176514</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1739648176514</updated>
+    </task>
+    <task id="LOCAL-00030" summary="create hw 6">
+      <option name="closed" value="true" />
+      <created>1739648210302</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1739648210302</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -329,7 +382,8 @@
     <MESSAGE value="push HW_2" />
     <MESSAGE value="create HW3" />
     <MESSAGE value="create HW4" />
-    <option name="LAST_COMMIT_MESSAGE" value="create HW4" />
+    <MESSAGE value="create hw 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="create hw 6" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
