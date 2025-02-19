@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c9c994b-83bc-4a73-8656-1698fa874260" name="Changes" comment="&#10;&#10;# Conflicts:&#10;#&#9;hw_6/HW_6.js">
-      <change afterPath="$PROJECT_DIR$/HW_7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_7.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+    <list default="true" id="0c9c994b-83bc-4a73-8656-1698fa874260" name="Changes" comment="crete hw 7">
+      <change afterPath="$PROJECT_DIR$/HW_8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fishing.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fishing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_fishing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,9 +25,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -62,6 +64,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Node.js.fishing.js.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -122,7 +125,13 @@
       <workItem from="1739819812128" duration="4358000" />
       <workItem from="1739892172435" duration="7000" />
       <workItem from="1739892189330" duration="13596000" />
-      <workItem from="1739941124555" duration="8557000" />
+      <workItem from="1739941124555" duration="9543000" />
+      <workItem from="1740069465175" duration="2481000" />
+      <workItem from="1740114491312" duration="13914000" />
+      <workItem from="1740209307735" duration="20230000" />
+      <workItem from="1740289132296" duration="3832000" />
+      <workItem from="1740315942331" duration="8000" />
+      <workItem from="1740413535669" duration="1237000" />
     </task>
     <task id="LOCAL-00001" summary="CREATE NEW PROJECT FOR HW JS">
       <option name="closed" value="true" />
@@ -396,7 +405,47 @@
       <option name="project" value="LOCAL" />
       <updated>1739698250376</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="crete hw 7">
+      <option name="closed" value="true" />
+      <created>1739957543047</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1739957543047</updated>
+    </task>
+    <task id="LOCAL-00036" summary="crete hw 7">
+      <option name="closed" value="true" />
+      <created>1739957580307</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1739957580307</updated>
+    </task>
+    <task id="LOCAL-00037" summary="crete hw 7">
+      <option name="closed" value="true" />
+      <created>1739957594328</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1739957594328</updated>
+    </task>
+    <task id="LOCAL-00038" summary="crete hw 7">
+      <option name="closed" value="true" />
+      <created>1739957604924</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1739957604924</updated>
+    </task>
+    <task id="LOCAL-00039" summary="crete hw 7">
+      <option name="closed" value="true" />
+      <created>1739957657786</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1739957657786</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -423,18 +472,8 @@
     <MESSAGE value="create hw 6" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;hw_6/HW_6.js" />
     <MESSAGE value="&#10;&#10;# Conflicts:&#10;#&#9;hw_6/HW_6.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;&#10;# Conflicts:&#10;#&#9;hw_6/HW_6.js" />
+    <MESSAGE value="crete hw 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="crete hw 7" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/HW_6.js</url>
-          <line>34</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

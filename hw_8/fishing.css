@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.gameField-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap:30px
+}
+canvas{
+    background-image: url("img/1.jpg");
+    background-size: 800px 700px;
+    width: 800px;
+    height: 700px;
+
+}
