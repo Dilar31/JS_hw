@@ -4,12 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c9c994b-83bc-4a73-8656-1698fa874260" name="Changes" comment="crete hw 7">
-      <change afterPath="$PROJECT_DIR$/HW_8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fishing.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fishing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index_fishing.html" afterDir="false" />
+    <list default="true" id="0c9c994b-83bc-4a73-8656-1698fa874260" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;hw_8/HW_8.html">
+      <change afterPath="$PROJECT_DIR$/HW_10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10_sessions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw10_sessions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw11.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw11.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw9.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_HW_10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_HW_9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +55,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="Security Analysis" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -131,7 +138,12 @@
       <workItem from="1740209307735" duration="20230000" />
       <workItem from="1740289132296" duration="3832000" />
       <workItem from="1740315942331" duration="8000" />
-      <workItem from="1740413535669" duration="1237000" />
+      <workItem from="1740413535669" duration="1494000" />
+      <workItem from="1740598980519" duration="2679000" />
+      <workItem from="1740679223439" duration="8485000" />
+      <workItem from="1740814700289" duration="22024000" />
+      <workItem from="1740839097513" duration="1000" />
+      <workItem from="1740912868765" duration="15691000" />
     </task>
     <task id="LOCAL-00001" summary="CREATE NEW PROJECT FOR HW JS">
       <option name="closed" value="true" />
@@ -445,7 +457,31 @@
       <option name="project" value="LOCAL" />
       <updated>1739957657786</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="crete hw 7">
+      <option name="closed" value="true" />
+      <created>1740414853474</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1740414853474</updated>
+    </task>
+    <task id="LOCAL-00041" summary="crete hw 7">
+      <option name="closed" value="true" />
+      <created>1740414890832</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1740414890832</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;hw_8/HW_8.html">
+      <option name="closed" value="true" />
+      <created>1740414913138</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1740414913138</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -473,7 +509,9 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;hw_6/HW_6.js" />
     <MESSAGE value="&#10;&#10;# Conflicts:&#10;#&#9;hw_6/HW_6.js" />
     <MESSAGE value="crete hw 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="crete hw 7" />
+    <MESSAGE value="crete hw 8" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;hw_8/HW_8.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;hw_8/HW_8.html" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
