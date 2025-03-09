@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c9c994b-83bc-4a73-8656-1698fa874260" name="Changes" comment="HW">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mainPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/postDetails.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/postDetails.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/postDetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-details.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-details.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0c9c994b-83bc-4a73-8656-1698fa874260" name="Changes" comment="EXAM" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,7 +137,7 @@
       <workItem from="1741276733618" duration="15965000" />
       <workItem from="1741324142952" duration="10475000" />
       <workItem from="1741359133217" duration="3892000" />
-      <workItem from="1741502868049" duration="396000" />
+      <workItem from="1741502868049" duration="697000" />
     </task>
     <task id="LOCAL-00001" summary="CREATE NEW PROJECT FOR HW JS">
       <option name="closed" value="true" />
@@ -518,7 +507,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740994969286</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="EXAM">
+      <option name="closed" value="true" />
+      <created>1741503541011</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1741503541011</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -549,7 +546,8 @@
     <MESSAGE value="crete hw 8" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;hw_8/HW_8.html" />
     <MESSAGE value="HW" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW" />
+    <MESSAGE value="EXAM" />
+    <option name="LAST_COMMIT_MESSAGE" value="EXAM" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
