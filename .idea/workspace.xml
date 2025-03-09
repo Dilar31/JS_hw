@@ -4,19 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c9c994b-83bc-4a73-8656-1698fa874260" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;hw_8/HW_8.html">
-      <change afterPath="$PROJECT_DIR$/HW_10.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw10.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw10_sessions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw10_sessions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw11.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw11.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw9.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index_HW_10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index_HW_9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+    <list default="true" id="0c9c994b-83bc-4a73-8656-1698fa874260" name="Changes" comment="HW">
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mainPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postDetails.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postDetails.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-details.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-details.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +30,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -144,6 +141,14 @@
       <workItem from="1740814700289" duration="22024000" />
       <workItem from="1740839097513" duration="1000" />
       <workItem from="1740912868765" duration="15691000" />
+      <workItem from="1740994840931" duration="1010000" />
+      <workItem from="1741151538055" duration="1191000" />
+      <workItem from="1741192892130" duration="3224000" />
+      <workItem from="1741236801588" duration="637000" />
+      <workItem from="1741276733618" duration="15965000" />
+      <workItem from="1741324142952" duration="10475000" />
+      <workItem from="1741359133217" duration="3892000" />
+      <workItem from="1741502868049" duration="396000" />
     </task>
     <task id="LOCAL-00001" summary="CREATE NEW PROJECT FOR HW JS">
       <option name="closed" value="true" />
@@ -481,7 +486,39 @@
       <option name="project" value="LOCAL" />
       <updated>1740414913138</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="HW">
+      <option name="closed" value="true" />
+      <created>1740994854744</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1740994854744</updated>
+    </task>
+    <task id="LOCAL-00044" summary="HW">
+      <option name="closed" value="true" />
+      <created>1740994952436</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1740994952436</updated>
+    </task>
+    <task id="LOCAL-00045" summary="HW">
+      <option name="closed" value="true" />
+      <created>1740994962520</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1740994962520</updated>
+    </task>
+    <task id="LOCAL-00046" summary="HW">
+      <option name="closed" value="true" />
+      <created>1740994969286</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1740994969286</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -511,7 +548,8 @@
     <MESSAGE value="crete hw 7" />
     <MESSAGE value="crete hw 8" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;hw_8/HW_8.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;hw_8/HW_8.html" />
+    <MESSAGE value="HW" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
